@@ -1,0 +1,24 @@
+.product-design {
+  height: 190px;
+}
+
+.default-color {
+  color: #006aff;
+}
+
+.cursor-pointer {
+    cursor: pointer;
+}
+
+.button-cart-design {
+  font-size: 20px;
+}
+
+.list-item {
+  cursor: pointer;
+}
+
+.error-message {
+  width: 50%;
+  margin: 100px auto;
+}
